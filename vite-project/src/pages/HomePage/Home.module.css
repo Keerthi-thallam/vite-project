@@ -1,0 +1,10 @@
+.body{
+    border:2px solid grey;
+    width:250px;
+    height:45px;
+    position:relative;
+}
+.result{
+    position:relative;
+    left:180px;
+}

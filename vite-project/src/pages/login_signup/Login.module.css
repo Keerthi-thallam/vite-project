@@ -1,0 +1,46 @@
+.full{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:burlywood;
+    margin:15px;
+    padding: 0;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+}
+.body{
+    background-color:blanchedalmond;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow:0 4px 8px rgba(red, green, blue, alpha);
+    width:300px;
+}
+.hello{
+    text-align: center;
+}
+.hi{
+    margin-bottom: 15rcap;
+}
+.email{
+    width: 100%;
+    padding:8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.password{
+    width: 100%;
+    padding:8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor:pointer;
+
+}
+.submit{
+    width:100%;
+    padding:8px;
+    background-color:white;
+    color:white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor:pointer;
+}
